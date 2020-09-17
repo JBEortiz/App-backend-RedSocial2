@@ -1,0 +1,64 @@
+08/07/2020
+
+El equipo nos hemos reunido para pactar la nomenclatura y metodología de programación a usar entre todos, asi como también la
+estructura de archivos del proyecto.
+
+Dani - Métodos del CRUD básico de la entidad Message.
+Samu -  Métodos del CRUD básico de la entidad Eventos, repasar lo aprendido.
+Juan - Users hasta donde llegue mínimo metodos CRUD básico y algo mas, ayudar, supervisar (buenas practicas).
+
+Objetivos Cumplidos!
+
+09/07/2020
+
+ Dani - Repositorios, service de Reaction, intentar terminar Messages - Objetivos Cumplidos!
+
+ Samu - Repositorios, service de Asisstence, - Objetivo Cumplido!
+ 
+   intentar terminar Events
+   
+    GET /events/{id}/users/yesAssistance - Objetivos Cumplidos!
+    GET /events/{id}/users/notAssistance - Objetivos Cumplidos!
+    
+    GET /events/user/{id}/yesAssistance -  Objetivo por revisar!
+    GET /events/user/{id}/notAssistance - Objetivo por revisar!
+    
+ Juan - Repositorios, service de Relationship ayudar, supervisar (buenas practicas)-- terminar users -  Objetivos Cumplidos!
+  
+  Si los objetivos - Cumplido
+  
+  POST /events/{id}/yesAssistance - Objetivos Cumplidos!
+  POST /events/{id}/notAssistance - Objetivos Cumplidos!
+  
+10/07/2020 
+
+  Dani -
+  
+     Mejorar método post message POST /messages - Objetivos Cumplidos!
+     GET /messages/user/{id}/friendPos - Objetivos Cumplidos!
+     Manejo de Errores  Objetivo no Cumplido!
+     
+  Samu - 
+  
+    GET /events/user/{id}/yesAssistance Objetivo no Cumplido!
+    GET /events/user/{id}/notAssistance Objetivo no Cumplido!
+    Manejo de Errores   
+  
+  Juan -
+  
+     repost Controller Objetivo  Cumplido!
+     Manejo de Errores Objetivo no Cumplido!
+  
+  
+  11-12/07/2020 
+   Dani -  Manejo de Errores  
+   
+   Samu -   
+    GET /events/user/{id}/yesAssistance  - Objetivos Cumplidos!
+    GET /events/user/{id}/notAssistance  - Objetivos Cumplidos!
+    Test ting  metodos
+  
+   Juan -  Manejo de Errores
+    
+  QUEDADA DE EQUIPO - para hablar y finalizar el proyecto
+ 
